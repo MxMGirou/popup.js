@@ -5,6 +5,7 @@
 	{
 		//verifications
 		if( typeof(time) == 'undefined' ){time= 4000;}
+		else{time*=1000;}
 		if(type!="success" && type!="danger" && type!="info" && type!="warning" && type!="default"){type="default";}
 		if(text=="" || text== 'undefined'){console.log('Popup.js : No text = No display');return false;}
 		//
