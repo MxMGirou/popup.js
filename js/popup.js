@@ -6,7 +6,7 @@
 *
 *text : required - define the text in the popup
 *type : required - define the type of popup [default-info-success-warning-danger]
-*time : time time the popup will be displayed (in seconds) - 4 seconds by default
+*time : optional - time time the popup will be displayed (in seconds) - 4 seconds if not know
 *
 *To invoque a popup just call the function : setPopup() with your parameters
 */
