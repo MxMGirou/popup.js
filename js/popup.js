@@ -1,5 +1,15 @@
 
-//fonction pour afficher des popUp et les supprimer ensuite
+/*
+*POPUP.JS
+*
+*PARAMETRES
+*
+*text : required - define the text in the popup
+*type : required - define the type of popup [default-info-success-warning-danger]
+*time : time time the popup will be displayed (in seconds) - 4 seconds by default
+*
+*To invoque a popup just call the function : setPopup() with your parameters
+*/
 	var idPopup=0;
 	function setPopup(text,type, time)
 	{
