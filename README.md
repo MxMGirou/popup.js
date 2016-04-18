@@ -13,6 +13,6 @@ to invoque them, you just have to call the function : setPopup(text, type, time)
 
 Be sure that you have the CSS & Jquery inclued. however, JQuery is inclued in the repository.
 
-if you have questions or bug about popup.js, please contact me : maxime.girou@laposte.net
+if you have questions or bug about popup.js, please contact me : maximegirou1@gmail.com
 
 thanks for using it !
