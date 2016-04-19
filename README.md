@@ -7,6 +7,17 @@ popup.js is a Javascript plugin who can display litle popup at the top of your s
 
 ##Usage
 
+Import library : 
+
+```html
+<head>
+	<link rel="stylesheet" type="text/css" href="css/popup.css">
+	<link rel="stylesheet" type="text/css" href="css/style1.css">
+	<script type="text/javascript" src="js/jquery-1.11.min.js"></script>
+	<script type="text/javascript" src="js/popup.js"></script>
+</head>
+```
+
 ```javascript
 setPopup(text, type, time);
 ```
