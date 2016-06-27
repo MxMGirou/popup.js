@@ -22,9 +22,9 @@ Import library :
 setPopup(text, type, time);
 ```
 
--text (Required): the text you want to display 
--type (Facultative): the type of your popup : default, warning, danger or info ("default" by default)
--time (Facultative): the time (in seconds) you want the popup to be displayed (4 seconds by default)
+- text (Required): the text you want to display 
+- type (Facultative): the type of your popup : default, warning, danger or info ("default" by default)
+- time (Facultative): the time (in seconds) you want the popup to be displayed (4 seconds by default)
 
 Be sure that you have the CSS & Jquery inclued. however, JQuery is inclued in the repository.
 
