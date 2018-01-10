@@ -31,3 +31,5 @@ Be sure that you have the CSS & Jquery inclued. however, JQuery is inclued in th
 if you have questions or bug about popup.js, please contact me : maximegirou1@gmail.com
 
 thanks for using it !
+
+test
