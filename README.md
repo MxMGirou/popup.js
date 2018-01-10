@@ -32,4 +32,3 @@ if you have questions or bug about popup.js, please contact me : maximegirou1@gm
 
 thanks for using it !
 
-test
